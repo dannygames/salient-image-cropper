@@ -72,4 +72,3 @@ The script will:
 - Output images are always square with dimensions specified by `--size`
 - Supported input formats: JPG, JPEG (case insensitive)
 - Output format: WebP (90% quality)
-```
